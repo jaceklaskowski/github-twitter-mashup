@@ -1,0 +1,7 @@
+# Consult http://twitter4j.org/en/configuration.html
+debug=true
+oauth.consumerKey=
+oauth.consumerSecret=
+oauth.accessToken=
+oauth.accessTokenSecret=
+
